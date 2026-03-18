@@ -105,12 +105,6 @@ After this tutorial, you can move on to:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ##  Author
 Built with ❤️ by **[Coder Shiyar](https://codershiyar.com)**  
 *Sharing knowledge about open-source AI, one tutorial at a time.*
